@@ -1,0 +1,7 @@
+Test-1 : dog can swim
+Test-2 : tail is fluffy
+Test-3 : aakash hilata hai
+Test-4 : fish is small
+Test-5 : Fish are cold-blooded
+Test-6 : parth and kartik are good friends
+Test-7 : dog can swim
